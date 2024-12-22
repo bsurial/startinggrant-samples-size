@@ -3,4 +3,4 @@ This repository contains the code of my sample size calculation for the Starting
 
 The code can be found in [sample-size.md](sample-size.md).
 
-Contact: [Dr. Bernard Surial](mailto:bernard.surial@insel.ch?subject=[GitHub]%20Starting%20Grant)
+Contact: [Dr. Bernard Surial](mailto:bernard.surial@insel.ch?subject=[GitHub]%20Starting%20Grant%20Sample-Size)
