@@ -6,8 +6,7 @@ Bernard Surial
 ### Introduction
 
 This is a simulation to calculate the sample size needed for my SNSF
-Starting Grant application **Screening for Chlamydia and Gonorrhea in
-Switzerland**: Evidence-based Approaches to Public Health.
+Starting Grant application **Optimizing Screening for Chlamydia and Gonorrhea:** Toward Effective Prevention and Antibiotic Stewardship.
 
 I use the following assumptions based on estimates of the Swiss HIV
 Cohort Study data.
